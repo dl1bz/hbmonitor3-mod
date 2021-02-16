@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "tgid": 7,
+      "callsign": "LausitzLink",
+      "id": "7"
+    },
+    {
+      "tgid": 2621,
+      "callsign": "RegioTG BE-BB",
+      "id": "2621"
+    },
+    {
+      "tgid": 2620,
+      "callsign": "RegioTG ST-MV",
+      "id": "2620"
+    },
+    {
+      "tgid": 2629,
+      "callsign": "RegioTG SN-TH",
+      "id": "2629"
+    },
+    {
+      "tgid": 79990,
+      "callsign": "ECHO",
+      "id": "79990"
+    },
+    {
+      "tgid": 70000,
+      "callsign": "DE PEGASUS",
+      "id": "70000"
+    }
+  ]
+}
